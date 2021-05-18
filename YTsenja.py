@@ -39,4 +39,4 @@ if menu1 == "2":
 	ad.close
 	vd.close
 else:
-    os.system("python3 J.py")
+    os.system("python3 YTsenja.py")
